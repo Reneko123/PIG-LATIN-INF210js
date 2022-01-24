@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html {
+    background-color: #6760aa;
+}
+
+body {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.left {
+    width: 450px;
+    top: 200px;
+    height: 45%;
+    left: 10%;
+    position: absolute;
+    background: cornsilk;
+    border-radius: 15px;
+}
+
+.right {
+    width: 450px;
+    top: 175px;
+    height: 55%;
+    left: 60%;
+    position: absolute;
+    background: cornsilk;
+    border-radius: 15px;
+}
+
+.right h1 {
+    text-align: center;
+    color: #000;
+    padding: 20px 0;
+}
+
+input[type="button"] {
+    width: 80%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 50px;
+    border: 1px solid;
+    background: #2691d9;
+    border-radius: 25px;
+    font-size: 18px;
+    color: #e9f4fb;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+}
+
+input[type="button"]:hover {
+    border-color: #2691d9;
+    transition: .5s;
+}
+
+.input {
+    width: 80%;
+    height: 12%;
+    border-radius: 5px;
+    font: inherit;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    padding: 0.2em 0.5em;
+}
+
+.txt_field input {
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 10px;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+}
+
+.txt_field label {
+    top: 20%;
+    left: 10px;
+    margin-left: 10px;
+    color: #726c6c;
+    font-size: 16px;
+}
