@@ -1,7 +1,14 @@
 # I210_03 Pig-Latin.js Poo
 Proyecto Documentado INF-210 grupo número 3
-
-
+----LENGUAJE JS ---
+JavaScript
+53.5%
+ 
+HTML
+24.5%
+ 
+CSS
+22.0%
 
 
 
